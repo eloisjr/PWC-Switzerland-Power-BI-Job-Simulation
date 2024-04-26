@@ -59,4 +59,4 @@ Calculating the following measures could help to define proper KPIs:
 
 # Access to Credential URL
 
-Credential URL (PWC)[https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_TfwTCGJd4w4nv5NyK_1714090547347_completion_certificate.pdf]
+Credential URL [PWC](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_TfwTCGJd4w4nv5NyK_1714090547347_completion_certificate.pdf)

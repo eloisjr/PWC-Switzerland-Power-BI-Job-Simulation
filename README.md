@@ -57,3 +57,6 @@ Calculating the following measures could help to define proper KPIs:
 ![task4-2](https://github.com/eloisjr/PWC-Switzerland-Power-BI-Job-Simulation/assets/81710422/02d6b180-4363-424c-ae87-97cf614179c8)
 ![task4-3](https://github.com/eloisjr/PWC-Switzerland-Power-BI-Job-Simulation/assets/81710422/736c146a-b4d7-4f6b-8697-16c7f71d47bb)
 
+# Access to Credential URL
+
+Credential URL (PWC)[https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_TfwTCGJd4w4nv5NyK_1714090547347_completion_certificate.pdf]

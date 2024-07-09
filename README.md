@@ -43,9 +43,9 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 Calculating the following measures could help to define proper KPIs:
 
-- # of men
-- # of women
-- # of leavers
+- Number of men
+- Number  of women
+- Number of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
